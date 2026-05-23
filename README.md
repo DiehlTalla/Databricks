@@ -1,4 +1,4 @@
-# Databrick
+# Databricks
 
 
 Images:
